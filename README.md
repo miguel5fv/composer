@@ -1,2 +1,2 @@
 # composer
-Tests about composer
+Code about composer tests.
